@@ -35,6 +35,13 @@ I'm Marton, a 20 years old web developer from Hungary.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
+## Test
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 ## Contact
 - [marton.lederer.hu](https://marton.lederer.hu)
 - [@martonlederer](https://twitter.com/martonlederer) on Twitter
