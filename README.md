@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Adam" />
+  <img src="https://raw.githubusercontent.com/anandaadam/anandaadam/main/name.gif" alt="Adam" />
 </h1>
 
 <h1 align="center">Hi 👋, I'm Adam Ananda Santoso</h1>
