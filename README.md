@@ -24,4 +24,11 @@ I'm Marton, a 20 years old web developer from Hungary.
 
 ## 📫 Connect with me
   
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://www.linkedin.com/in/anandaadam/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4.5%"/>](https://www.instagram.com/ananda.adam_/)  &nbsp; <a href="mailto:adamanandasantoso@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+</p>
