@@ -22,6 +22,6 @@ I'm Marton, a 20 years old web developer from Hungary.
   </a>
 </p>
 
-### 📫 Connect with me
+## 📫 Connect with me
   
-[<img src="https://img.icons8.com/color/60/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/anandaadam/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/ananda.adam_/)  &nbsp; <a href="mailto:adamanandasantoso@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://www.linkedin.com/in/anandaadam/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4.5%"/>](https://www.instagram.com/ananda.adam_/)  &nbsp; <a href="mailto:adamanandasantoso@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/>
