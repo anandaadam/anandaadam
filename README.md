@@ -5,12 +5,6 @@
 <h1 align="center">Hi 👋, I'm Adam Ananda Santoso</h1>
 <h3 align="center">A passionate Backend Developer from Bandung, West Java, Indonesia 🇮🇩</h3>
 
-- 🔭 I’m currently working on **Telkom Foundation**
-
-- 🌱 I’m currently learning **Golang**
-
-- ⚡ Fun fact **fgfgfgfgf**
-
 <br />
 
 <!-- - 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
