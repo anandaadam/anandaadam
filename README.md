@@ -111,7 +111,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=anandaadam&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="anandaadam's GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandaadam&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="anandaadam's GitHub Stats" /></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=anandaadam&theme=dracula&hide_border=true" alt="anandaadam's GitHub Stats" /></td>
   </tr>
 </table>
